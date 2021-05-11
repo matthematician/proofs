@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+  <docinfo>
+    <favicon/>
+    <macros>\newcommand{\foo}{bar}</macros>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+  </docinfo>
+  <article xml:id="proofs-projects">
+    <title>Proofs and Projects in Linear Algebra</title>
+   
+    <xi:include href="prose.ptx"/>
+    <xi:include href="form.ptx"/>
+    <xi:include href="warrant.ptx"/> 
+    <xi:include href="fluency.ptx"/>   
+
+  </article>
+</pretext>
