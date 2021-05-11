@@ -10,4 +10,9 @@
         </li>
         </ol>
     </objectives>
+
+    <!-- A string of true statements does not make a proof; borrow the "1003 is prime" -->
+    <!-- Warranted implication when introducing new components to a proof -->
+    <!-- Warranted implication when drawing logical inferences -->
+    <!-- Elements of audience: when is an explicit warrant needed? -->
 </section>

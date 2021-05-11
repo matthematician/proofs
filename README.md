@@ -1,4 +1,4 @@
-# My Great Book!
+# Proofs and Projects for Linear Algebra
 
 Authored with [PreTeXt](https://pretextbook.org).
 
