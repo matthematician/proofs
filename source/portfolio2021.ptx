@@ -1,0 +1,124 @@
+<appendix xml:id="portfolio2021">
+    <title>Portfolio Problems, Summer 2021</title>
+
+    <worksheet xml:id="proofs_modulev"> <!-- Four -->
+        <title>Proofs for Module V</title>
+            <exercise xml:id="ex_v1">
+                <statement>
+                    <p>
+                        Prove that, with the usual operations of vector addition and scalar multiplication, the set <me>S = \bigl\{ (x_1,x_2,x_3) \in \mathbb{R}^3 \colon x_1 -2x_2 + 3x_3 = d \bigr\}</me> is a vector space if, and only if, <m>d=0</m>.
+                    </p>
+                </statement>
+            </exercise>
+            <exercise xml:id="ex_v2">
+                <statement>
+                    <p>
+                        Let <m>V</m> be a vector space, and <m>S \subset V</m> and <m>T \subset V</m> be two vector subspaces of <m>V</m>.
+                        </p>
+                    <p>
+                        Prove that the union <m>S\cup T</m> is a vector subspace of <m>V</m> if, and only if, <m>S \subset T</m> or <m>T \subset S</m>.
+                    </p>
+                </statement>
+            </exercise>
+            <exercise xml:id="ex_v3">
+                <statement>
+                    <p>
+                        Let <m>V</m> be a vector space, and <m>v_1,v_2,\ldots,v_m \in V</m> be linearly independent in <m>V</m>.
+                    </p>
+                    <p>
+                        Prove that, for any vector <m>w \not\in {\rm span}\{v_1,v_2,\ldots,v_m\}</m>, the vectors <me>v_1+w, \; v_2+w,\; \ldots, \; v_m+w</me> are linearly independent.
+                    </p>
+                </statement>
+            </exercise>
+            <exercise xml:id="ex_v4">
+                <statement>
+                    <p>
+                        Let <m>V</m> be a vector space, and <m>v_1,v_2,\ldots,v_m \in V</m> be linearly independent in <m>V</m>.
+                    </p>
+                    <p>
+                        Prove that, for any vector <m>w \in V</m>, <me> {\rm dim} \; {\rm span} \{ v_1+w, \, v_2+w,\, \ldots, v_m+w\} \geq m-1.</me>
+                    </p>
+                </statement>
+            </exercise>
+
+
+
+    </worksheet>
+    
+    <!--
+    <worksheet xml:id="proofs_modulea">
+        <title>Proofs for Module A</title>
+            <exercise xml:id="ex_a1">
+                <statement>
+                    <p>
+                        This.
+                    </p>
+                </statement>
+            </exercise>
+            <exercise xml:id="ex_a2">
+                <statement>
+                    <p>
+                        This.
+                    </p>
+                </statement>
+            </exercise>
+            <exercise xml:id="ex_a3">
+                <statement>
+                    <p>
+                        Let <m>T \colon \mathbb{R}^5 \to \mathbb{R}^5</m> be a linear map. 
+                    </p>
+                    <ol>
+                        <li>
+                            <p>Prove that it is <strong>not</strong> possible that <m>{\rm range}\, T = {\rm null}\, T.</m>
+                            </p>
+                        </li>
+                        <li>
+                            <p>Show, by a specific example, that the above result <strong>is</strong> possible for a linear map <m>T \colon \mathbb{R}^4 \to \mathbb{R}^4.</m>
+                            </p>
+                        </li>
+                    </ol>
+                </statement>
+            </exercise>
+
+    </worksheet>
+    <worksheet xml:id="proofs_modulem">
+        <title>Proofs for Module M</title>
+            <exercise xml:id="ex_m1">
+                <statement>
+                    <p>
+                        This.
+                    </p>
+                </statement>
+            </exercise>
+            <exercise xml:id="ex_m2">
+                <statement>
+                    <p>
+                        This.
+                    </p>
+                </statement>
+            </exercise>
+
+    </worksheet>
+    <worksheet xml:id="proofs_moduleg"> 
+        <title>Proofs for Module G</title>
+            <exercise xml:id="ex_g1">
+                <statement>
+                    <p>
+                        This.
+                    </p>
+                </statement>
+            </exercise>
+            <exercise xml:id="ex_g2">
+                <statement>
+                    <p>
+                        This.
+                    </p>
+                </statement>
+            </exercise>
+
+    </worksheet>
+    -->
+
+    
+    
+</appendix>

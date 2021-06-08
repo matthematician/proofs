@@ -13,9 +13,18 @@
     </introduction>
 
     <xi:include href="prose.ptx"/>
+    
+
     <xi:include href="form.ptx"/>
+
     <xi:include href="warrant.ptx"/> 
+    
     <xi:include href="fluency.ptx"/>   
+
+  
+    <xi:include href="portfolio2021.ptx"/>
+    <xi:include href="definitions.ptx"/>
+  
 
   </article>
 </pretext>

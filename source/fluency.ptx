@@ -5,13 +5,15 @@
         <ol>
         <li>
         <p>
-            I can write proofs that effectively and appropriately use mathematical terminology and notation.
-        </p>
-        </li>
+            I can write proofs that effectively and appropriately use mathematical terminology.</p></li>
+            <li><p>I can write proofs that effectively and appropriately use mathematical notation.</p></li>
+        
         </ol>
     </objectives>
 
     <!-- Mainly an audience question again, contrast informal vs. formal uses of language -->
     <!-- Some reasons mathematicians get frustrated about notation. -->
+    <!-- Proof uses correct and appropriate terminology.
+         Proof uses correct and appropriate notation. -->
 
 </section>
